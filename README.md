@@ -15,7 +15,6 @@ This Python project is a chess board classifier that takes images of chess board
 The project relies on the following libraries:
 
 - NumPy
-- scipy
 
 # Training
 
